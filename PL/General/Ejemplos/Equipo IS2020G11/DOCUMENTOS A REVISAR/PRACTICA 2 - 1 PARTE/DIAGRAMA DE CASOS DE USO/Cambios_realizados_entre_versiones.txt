@@ -1,0 +1,37 @@
+Cambios realizados en el diagrama de casos de uso 
+
+Versiones:
+	Diagrama de los casos de uso de la práctica 2 Parte 1 (1.0)
+	Diagrama de los casos de uso de la práctica 2 Parte 2 (2.X)
+
+Cambios introducidos en el diagrama:
+
+------------------------------------------------------------------
+Añadido gestionar pedidos de proveedores, envíos, BD,
+reclamaciones, exposición, envíos, pagos, devolución de
+encargos, y reclamaciones (1.0)
+------------------------------------------------------------------
+Gestionar encargos (2.0)
+------------------------------------------------------------------
+Eliminado Empresa Transporte (2.0)
+------------------------------------------------------------------
+Eliminado  realizar copia de seguridad (2.0)
+------------------------------------------------------------------
+Eliminado usuarios (2.0)
+------------------------------------------------------------------
+Gestionar catálogo (2.0)
+------------------------------------------------------------------
+Consultar balance (2.0)
+------------------------------------------------------------------
+Eliminado actualizar catálogo, gestionar
+prod de BD, y Proveedor en GBD (2.1)
+------------------------------------------------------------------
+Correción de los casos de uso en los que se
+eliminó Empresa de transportes, se añadieron sus
+interacciones al transportista. (2.2)
+------------------------------------------------------------------
+Eliminado preparar envíos de catálogo de productos (2.3)
+------------------------------------------------------------------
+Eliminado gestionar exposición (2.4)
+------------------------------------------------------------------
+Consulta de los encargos activos pasa a "Consultar encargos" (2.5)
