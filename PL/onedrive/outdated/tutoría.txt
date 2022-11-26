@@ -1,0 +1,10 @@
+- prioridades en requisitos, no en casos de uso.
+- incluir lista de requisitos corregida en el informe.
+- aumentar número de casos de uso con la lista de requistitos del EVS.
+	- informe de empleados, informe histórico de empleados (R29)
+- definir actores en el diagrama de subsistemas
+- en la introducción hay que insertar qué parte ha hecho cada uno.
+	- "nada se hace entre todos".
+- cada prototipo debería tener una descripción de cómo funciona.
+	- descripción básica, orientada a los desarrolladores.
+- las versiones aumentan con las entregas.
